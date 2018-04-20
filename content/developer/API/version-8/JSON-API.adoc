@@ -97,7 +97,7 @@ GET https://path-to-instance/api/v8/modules/meta/list
 To get a list of records use the following url:
 
 [source,php]
-https://path-to-instance/api/{module}
+https://path-to-instance/api/v8/modules/{module}
 
 .Example Request:
 [source,php]
